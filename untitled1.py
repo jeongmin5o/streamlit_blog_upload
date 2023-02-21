@@ -44,5 +44,3 @@ st.subheader('막대차트')
 st.bar_chart(view.iloc[0])
 
 
-st.markdown('Streamlit is **_really_ cool**.')
-st.markdown("This text is :red[colored red], and this is **:blue[colored]** and bold.")
